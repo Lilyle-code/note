@@ -1,5 +1,5 @@
 {
-  "local-codelang": "cmd",
+  "local-codelang": "sql",
   "local-dialogposition": {
     "dialog-emojis": {
       "height": 520,
@@ -535,19 +535,13 @@
       "startId": "20250526173211-vb70ofb"
     },
     "20250529100820-5i2yhlh": {
-      "endId": "20250529100820-tp016ra",
-      "focusEnd": 0,
-      "focusId": "20250529100820-tp016ra",
-      "focusStart": 0,
+      "endId": "20250604101936-d169a7e",
       "rootId": "20250529100820-5i2yhlh",
-      "scrollTop": 0,
-      "startId": "20250529100820-tp016ra"
+      "scrollTop": 2967,
+      "startId": "20250604101936-d169a7e"
     },
     "20250529100832-492vkea": {
-      "endId": "20250529104548-pdt1db6",
-      "focusEnd": 88,
-      "focusId": "20250529104041-5ztbybz",
-      "focusStart": 88,
+      "endId": "20250603100340-d5quzb6",
       "rootId": "20250529100832-492vkea",
       "scrollTop": 0,
       "startId": "20250529101411-jkwn1gw"
@@ -563,25 +557,40 @@
     },
     "20250529160511-a8lbe7l": {
       "endId": "20250529161021-jhp0ocj",
-      "focusEnd": 56,
-      "focusId": "20250529175232-13hmhap",
-      "focusStart": 56,
       "rootId": "20250529160511-a8lbe7l",
-      "scrollTop": 0,
+      "scrollTop": 3538,
       "startId": "20250529163436-xqjd0fm"
+    },
+    "20250603160417-xqaeijx": {
+      "endId": "20250603160525-cu0iaq0",
+      "focusEnd": 68,
+      "focusId": "20250604114726-0kjbuy1",
+      "focusStart": 68,
+      "rootId": "20250603160417-xqaeijx",
+      "scrollTop": 2448,
+      "startId": "20250603160417-yeynwma"
+    },
+    "20250604174049-mnjwd00": {
+      "endId": "20250604174804-xr2rgnz",
+      "focusEnd": 0,
+      "focusId": "20250604174804-xr2rgnz",
+      "focusStart": 0,
+      "rootId": "20250604174049-mnjwd00",
+      "scrollTop": 2933,
+      "startId": "20250604174136-o72g36b"
     }
   },
   "local-filespaths": [
     {
       "notebookId": "20250513110139-2hbm2kv",
       "openPaths": [
-        "/20250513115212-tdv6kqw/20250513115238-12aasth.sy"
+        "/20250513115212-tdv6kqw.sy"
       ]
     },
     {
       "notebookId": "20250513111157-vwm6101",
       "openPaths": [
-        "/20250513181930-ybwen19/20250529100832-492vkea.sy"
+        "/20250513181930-ybwen19/20250515095230-5yt9s93/20250604181458-19djx6q.sy"
       ]
     },
     {
@@ -592,8 +601,10 @@
     }
   ],
   "local-fontstyles": [
-    "style1​var(--b3-card-warning-background)​var(--b3-card-warning-color)",
-    "style1​var(--b3-card-info-background)​var(--b3-card-info-color)"
+    "style1​var(--b3-card-info-background)​var(--b3-card-info-color)",
+    "style1​​",
+    "backgroundColor​var(--b3-font-background1)",
+    "style1​var(--b3-card-warning-background)​var(--b3-card-warning-color)"
   ],
   "local-searchdata": {
     "group": 0,
