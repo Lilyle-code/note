@@ -375,7 +375,7 @@
     "20250513181930-ybwen19": {
       "endId": "20250513191300-i3i8dmz",
       "focusEnd": 0,
-      "focusId": "20250513191300-5vgeqp6",
+      "focusId": "20250513191126-hr3la8u",
       "focusStart": 0,
       "rootId": "20250513181930-ybwen19",
       "scrollTop": 3650,
@@ -396,7 +396,7 @@
       "focusId": "20250513192524-sggrya9",
       "focusStart": 0,
       "rootId": "20250513192005-8zsy0th",
-      "scrollTop": 7103,
+      "scrollTop": 7102.66650390625,
       "startId": "20250513192026-0pitrz4"
     },
     "20250513192109-0tls8jb": {
@@ -537,6 +537,12 @@
       "notebookId": "20250513110139-2hbm2kv",
       "openPaths": [
         "/20250513181458-hejs9x5/20250513181522-wawa8q1.sy"
+      ]
+    },
+    {
+      "notebookId": "20250513111157-vwm6101",
+      "openPaths": [
+        "/20250519172442-xl6ona2.sy"
       ]
     },
     {
