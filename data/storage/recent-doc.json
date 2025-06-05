@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "rootID": "20250513192005-8zsy0th",
     "icon": "",
     "title": "牛客专项练习总结"
@@ -11,18 +12,21 @@
   },
   {
     "rootID": "20250516115816-sho12gw",
+=======
+    "rootID": "20250604181458-19djx6q",
+>>>>>>> 5a21b5baa3637a194657a0f274a430540c9d2f53
     "icon": "",
-    "title": "性能测试结果分析"
+    "title": "未命名"
   },
   {
-    "rootID": "20250516155750-l4xjlfq",
+    "rootID": "20250604174049-mnjwd00",
     "icon": "",
-    "title": "实验对象"
+    "title": "关于代码的测试用例生成"
   },
   {
-    "rootID": "20250524153048-skokp6g",
+    "rootID": "20250604172746-hu5ylwj",
     "icon": "",
-    "title": "进程规划"
+    "title": "CK笔记"
   },
   {
     "rootID": "20250513191605-xuxniif",
@@ -30,44 +34,29 @@
     "title": "面试小抄笔记"
   },
   {
+    "rootID": "20250603160417-xqaeijx",
+    "icon": "",
+    "title": "测试工具"
+  },
+  {
+    "rootID": "20250529100832-492vkea",
+    "icon": "",
+    "title": "Linux"
+  },
+  {
+    "rootID": "20250529100820-5i2yhlh",
+    "icon": "",
+    "title": "SQL语句"
+  },
+  {
+    "rootID": "20250529160511-a8lbe7l",
+    "icon": "",
+    "title": "Python性能工具"
+  },
+  {
     "rootID": "20250513110221-30fa7vc",
     "icon": "1f516",
     "title": "蜕变测试"
-  },
-  {
-    "rootID": "20250513154746-eep1ahb",
-    "icon": "",
-    "title": "文献综述"
-  },
-  {
-    "rootID": "20250513154947-o96zoxl",
-    "icon": "",
-    "title": "2024-EASE-AI-driven Java Performance Testing: Balancing Result Quality with Testing Time"
-  },
-  {
-    "rootID": "20250513154442-j1dx5ue",
-    "icon": "",
-    "title": "相关概念总结"
-  },
-  {
-    "rootID": "20250513115238-12aasth",
-    "icon": "1f527",
-    "title": "工具汇总"
-  },
-  {
-    "rootID": "20250513181522-wawa8q1",
-    "icon": "",
-    "title": "相关概念"
-  },
-  {
-    "rootID": "20250513180618-uxdek41",
-    "icon": "",
-    "title": "2017-ICSE-NIER-Performance Metamorphic Testing: Motivation and Challenges"
-  },
-  {
-    "rootID": "20250513175955-ctc8kjd",
-    "icon": "",
-    "title": "2018-IST-Performance metamorphic testing: A Proof of concept"
   },
   {
     "rootID": "20250519172442-xl6ona2",
@@ -75,64 +64,14 @@
     "title": "JAVA"
   },
   {
-    "rootID": "20250519172419-8t0o62w",
+    "rootID": "20250513160407-6tsh8he",
     "icon": "",
-    "title": "排序"
+    "title": "2022-ICMSE-An Empirical Study on Performance Bugs in Deep Learning Frameworks"
   },
   {
-    "rootID": "20250513193124-pahq9y8",
+    "rootID": "20250513170858-p97xcwv",
     "icon": "",
-    "title": "算法相关"
-  },
-  {
-    "rootID": "20250513115212-tdv6kqw",
-    "icon": "1f516",
-    "title": "性能测试"
-  },
-  {
-    "rootID": "20250513180121-euai56t",
-    "icon": "",
-    "title": "2018-Performance Modeling and Evaluation of Distributed Deep Learning Frameworks on GPUs"
-  },
-  {
-    "rootID": "20250513175818-bm0e9t4",
-    "icon": "",
-    "title": "2018-ASE-DeepGauge: Multi-Granularity Testing Criteria for Deep Learning Systems（多粒度）"
-  },
-  {
-    "rootID": "20250515095339-phsnnxq",
-    "icon": "",
-    "title": "SQL语句"
-  },
-  {
-    "rootID": "20250515095304-4yjgglz",
-    "icon": "",
-    "title": "Docker"
-  },
-  {
-    "rootID": "20250515095249-4gauvw5",
-    "icon": "",
-    "title": "kubernets"
-  },
-  {
-    "rootID": "20250515095243-oxsg6fh",
-    "icon": "",
-    "title": "Kafka"
-  },
-  {
-    "rootID": "20250515095230-5yt9s93",
-    "icon": "",
-    "title": "Oracle"
-  },
-  {
-    "rootID": "20250513192109-0tls8jb",
-    "icon": "",
-    "title": "项目"
-  },
-  {
-    "rootID": "20250514213807-20upylr",
-    "icon": "",
-    "title": "MongDB"
+    "title": "2021-STVR-Performance Mutation Testing"
   },
   {
     "rootID": "20250513180047-roctk8p",
@@ -140,23 +79,67 @@
     "title": "2018-ASE-PerfLearner: Learning from Bug Reports to Understand and Generate Performance Test Frames"
   },
   {
-    "rootID": "20250513175932-5f5ppuj",
-    "icon": "",
-    "title": "2018-ISSRE-DeepMutation: Mutation Testing of Deep Learning Systems"
+    "rootID": "20250513181458-hejs9x5",
+    "icon": "1f516",
+    "title": "其他内容"
   },
   {
-    "rootID": "20250513192847-zxwuul2",
+    "rootID": "20250529101706-tp8f4vu",
     "icon": "",
-    "title": "SKY"
+    "title": "Docker"
   },
   {
+    "rootID": "20250516155750-l4xjlfq",
+    "icon": "",
+    "title": "实验对象"
+  },
+  {
+<<<<<<< HEAD
     "rootID": "20250513192623-y4chpf1",
+=======
+    "rootID": "20250513192005-8zsy0th",
     "icon": "",
-    "title": "真题总结"
+    "title": "牛客专项练习总结"
+  },
+  {
+    "rootID": "20250516115816-sho12gw",
+>>>>>>> 5a21b5baa3637a194657a0f274a430540c9d2f53
+    "icon": "",
+    "title": "性能测试结果分析"
+  },
+  {
+    "rootID": "20250524153048-skokp6g",
+    "icon": "",
+    "title": "进程规划"
   },
   {
     "rootID": "20250513192121-e70lqte",
     "icon": "",
     "title": "day01"
+  },
+  {
+    "rootID": "20250515095230-5yt9s93",
+    "icon": "",
+    "title": "Oracle"
+  },
+  {
+    "rootID": "20250515095243-oxsg6fh",
+    "icon": "",
+    "title": "Kafka"
+  },
+  {
+    "rootID": "20250514213807-20upylr",
+    "icon": "",
+    "title": "MongDB"
+  },
+  {
+    "rootID": "20250513181930-ybwen19",
+    "icon": "1f5c2-fe0f",
+    "title": "八股相关"
+  },
+  {
+    "rootID": "20250513181833-0qpoa30",
+    "icon": "",
+    "title": "话术总结（介绍+HR面）"
   }
 ]
