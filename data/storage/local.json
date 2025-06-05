@@ -563,12 +563,21 @@
     },
     "20250603160417-xqaeijx": {
       "endId": "20250603160525-cu0iaq0",
-      "focusEnd": 68,
-      "focusId": "20250604114726-0kjbuy1",
-      "focusStart": 68,
+      "focusEnd": 0,
+      "focusId": "20250604180652-dbcy6p0",
+      "focusStart": 0,
       "rootId": "20250603160417-xqaeijx",
-      "scrollTop": 2448,
+      "scrollTop": 2536,
       "startId": "20250603160417-yeynwma"
+    },
+    "20250604172746-hu5ylwj": {
+      "endId": "20250604180432-pvoozss",
+      "focusEnd": 0,
+      "focusId": "20250604180432-vgczy4z",
+      "focusStart": 0,
+      "rootId": "20250604172746-hu5ylwj",
+      "scrollTop": 23134,
+      "startId": "20250604173130-0i91y08"
     },
     "20250604174049-mnjwd00": {
       "endId": "20250604174804-xr2rgnz",
@@ -578,6 +587,15 @@
       "rootId": "20250604174049-mnjwd00",
       "scrollTop": 2933,
       "startId": "20250604174136-o72g36b"
+    },
+    "20250604181458-19djx6q": {
+      "endId": "20250604181817-6l245yf",
+      "focusEnd": 100,
+      "focusId": "20250604181817-olvdi3i",
+      "focusStart": 100,
+      "rootId": "20250604181458-19djx6q",
+      "scrollTop": 3979,
+      "startId": "20250604181458-659cvgn"
     }
   },
   "local-filespaths": [
