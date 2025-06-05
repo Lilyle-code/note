@@ -3,12 +3,27 @@
   "local-fileposition": {
     "20250513110221-30fa7vc": {
       "endId": "20250513115159-ok34uce",
-      "focusEnd": 7,
-      "focusId": "20250604231758-bq7x0bw",
-      "focusStart": 7,
+      "focusEnd": 0,
+      "focusId": "20250604225745-r3jvkmn",
+      "focusStart": 0,
       "rootId": "20250513110221-30fa7vc",
-      "scrollTop": 3169.333251953125,
+      "scrollTop": 3258,
       "startId": "20250604225745-r3jvkmn"
+    },
+    "20250513115212-tdv6kqw": {
+      "endId": "20250517154123-xxpni5n",
+      "rootId": "20250513115212-tdv6kqw",
+      "scrollTop": 200,
+      "startId": "20250513115212-5jvrr0b"
+    },
+    "20250513115238-12aasth": {
+      "endId": "20250513115422-dr85a7j",
+      "focusEnd": 0,
+      "focusId": "20250513115422-ef4wlh1",
+      "focusStart": 0,
+      "rootId": "20250513115238-12aasth",
+      "scrollTop": 0,
+      "startId": "20250513115422-ef4wlh1"
     },
     "20250513181833-0qpoa30": {
       "endId": "20250513191938-uj9aclv",
@@ -60,9 +75,6 @@
     },
     "20250604174049-mnjwd00": {
       "endId": "20250604174804-xr2rgnz",
-      "focusEnd": 0,
-      "focusId": "20250604174136-o72g36b",
-      "focusStart": 0,
       "rootId": "20250604174049-mnjwd00",
       "scrollTop": 0,
       "startId": "20250604174136-o72g36b"
@@ -75,13 +87,32 @@
       "rootId": "20250605101143-xjjqykm",
       "scrollTop": 5200,
       "startId": "20250605101159-9sgizwt"
+    },
+    "20250605214043-pl5sp1d": {
+      "endId": "20250605214119-t63cyp4",
+      "focusEnd": 56,
+      "focusId": "20250605214119-e9huook",
+      "focusStart": 56,
+      "rootId": "20250605214043-pl5sp1d",
+      "scrollTop": 200,
+      "startId": "20250605214119-5gym14a"
+    },
+    "20250605215012-k7slxew": {
+      "endId": "20250605215017-v0s303r",
+      "focusEnd": 215,
+      "focusId": "20250605215017-v0s303r",
+      "focusStart": 215,
+      "rootId": "20250605215012-k7slxew",
+      "scrollTop": 0,
+      "startId": "20250605215017-7oas7rb"
     }
   },
   "local-filespaths": [
     {
       "notebookId": "20250513110139-2hbm2kv",
       "openPaths": [
-        "/20250513115212-tdv6kqw.sy"
+        "/20250513115212-tdv6kqw/20250513115238-12aasth.sy",
+        "/20250513181458-hejs9x5/20250605215012-k7slxew.sy"
       ]
     },
     {
@@ -99,6 +130,7 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "模糊测试",
       "删除",
       "ls -l",
       "touch",
