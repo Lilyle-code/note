@@ -1,4 +1,5 @@
 {
+  "local-codelang": "",
   "local-fileposition": {
     "20250513110221-30fa7vc": {
       "endId": "20250513115159-ok34uce",
@@ -9,24 +10,96 @@
       "scrollTop": 191,
       "startId": "20250604225745-r3jvkmn"
     },
+    "20250513181458-hejs9x5": {
+      "endId": "20250513181458-eoq2w1e",
+      "rootId": "20250513181458-hejs9x5",
+      "scrollTop": 0,
+      "startId": "20250513181458-eoq2w1e"
+    },
+    "20250513181522-wawa8q1": {
+      "endId": "20250513181825-qbgerbq",
+      "rootId": "20250513181522-wawa8q1",
+      "scrollTop": 2689,
+      "startId": "20250513181522-9x24a77"
+    },
+    "20250515095230-5yt9s93": {
+      "endId": "20250515095230-v4kxgf1",
+      "rootId": "20250515095230-5yt9s93",
+      "scrollTop": 0,
+      "startId": "20250515095230-v4kxgf1"
+    },
+    "20250515095243-oxsg6fh": {
+      "endId": "20250515095243-0rrmkjl",
+      "focusEnd": 0,
+      "focusId": "20250515095243-0rrmkjl",
+      "focusStart": 0,
+      "rootId": "20250515095243-oxsg6fh",
+      "scrollTop": 0,
+      "startId": "20250515095243-0rrmkjl"
+    },
+    "20250516115816-sho12gw": {
+      "endId": "20250516115818-m4u26w5",
+      "focusEnd": 0,
+      "focusId": "20250516115840-yuucg0c",
+      "focusStart": 0,
+      "rootId": "20250516115816-sho12gw",
+      "scrollTop": 0,
+      "startId": "20250516115840-yuucg0c"
+    },
+    "20250524153048-skokp6g": {
+      "endId": "20250524153048-lvqhi3i",
+      "rootId": "20250524153048-skokp6g",
+      "scrollTop": 0,
+      "startId": "20250524153048-lvqhi3i"
+    },
+    "20250529100820-5i2yhlh": {
+      "endId": "20250609112940-xdr0jps",
+      "rootId": "20250529100820-5i2yhlh",
+      "scrollTop": 4188,
+      "startId": "20250604101936-d169a7e"
+    },
     "20250529100832-492vkea": {
-      "endId": "20250605172313-9uydof1",
+      "endId": "20250609100230-yupmyvy",
+      "focusEnd": 9,
+      "focusId": "20250609102236-oyvd4z5",
+      "focusStart": 9,
       "rootId": "20250529100832-492vkea",
-      "scrollTop": 1333,
+      "scrollTop": 9509,
       "startId": "20250529101411-jkwn1gw"
+    },
+    "20250529160511-a8lbe7l": {
+      "endId": "20250529161021-jhp0ocj",
+      "focusEnd": 13,
+      "focusId": "20250529175232-ug6s1zm",
+      "focusStart": 3,
+      "rootId": "20250529160511-a8lbe7l",
+      "scrollTop": 0,
+      "startId": "20250529163436-xqjd0fm"
+    },
+    "20250603160417-xqaeijx": {
+      "endId": "20250603160525-cu0iaq0",
+      "rootId": "20250603160417-xqaeijx",
+      "scrollTop": 1867,
+      "startId": "20250603160417-yeynwma"
+    },
+    "20250605214043-pl5sp1d": {
+      "endId": "20250605214119-d39rq4y",
+      "rootId": "20250605214043-pl5sp1d",
+      "scrollTop": 0,
+      "startId": "20250605214119-5gym14a"
+    },
+    "20250609153652-8gg0pw1": {
+      "endId": "20250609153652-rao4bad",
+      "rootId": "20250609153652-8gg0pw1",
+      "scrollTop": 0,
+      "startId": "20250609153652-rao4bad"
     }
   },
   "local-filespaths": [
     {
       "notebookId": "20250513110139-2hbm2kv",
       "openPaths": [
-        "/20250513181458-hejs9x5/20250605215012-k7slxew.sy"
-      ]
-    },
-    {
-      "notebookId": "20250513111157-vwm6101",
-      "openPaths": [
-        "/20250513181930-ybwen19/20250529100832-492vkea.sy"
+        "/20250513115212-tdv6kqw.sy"
       ]
     },
     {
@@ -36,10 +109,72 @@
       ]
     }
   ],
+  "local-searchdata": {
+    "group": 0,
+    "hPath": "MS/八股相关/Linux",
+    "hasReplace": false,
+    "idPath": [
+      "20250513111157-vwm6101/20250513181930-ybwen19/20250529100832-492vkea.sy"
+    ],
+    "k": "clear",
+    "method": 0,
+    "page": 1,
+    "r": "",
+    "replaceTypes": {
+      "aHref": true,
+      "aText": true,
+      "aTitle": true,
+      "blockRef": true,
+      "code": true,
+      "codeBlock": true,
+      "docTitle": true,
+      "em": true,
+      "fileAnnotationRef": true,
+      "htmlBlock": true,
+      "imgSrc": true,
+      "imgText": true,
+      "imgTitle": true,
+      "inlineMath": true,
+      "inlineMemo": true,
+      "kbd": true,
+      "mark": true,
+      "mathBlock": true,
+      "s": true,
+      "strong": true,
+      "sub": true,
+      "sup": true,
+      "tag": true,
+      "text": true,
+      "u": true
+    },
+    "sort": 0,
+    "types": {
+      "blockquote": false,
+      "codeBlock": true,
+      "databaseBlock": true,
+      "document": true,
+      "embedBlock": false,
+      "heading": true,
+      "htmlBlock": true,
+      "list": false,
+      "listItem": false,
+      "mathBlock": true,
+      "paragraph": true,
+      "superBlock": false,
+      "table": true
+    }
+  },
   "local-searchkeys": {
     "col": "",
     "colTab": "",
     "keys": [
+      "升序",
+      "clear",
+      "tail",
+      "mv",
+      "cat",
+      "ls",
+      "pwd",
       "链路"
     ],
     "layout": 0,
