@@ -22,6 +22,15 @@
       "scrollTop": 2689,
       "startId": "20250513181522-9x24a77"
     },
+    "20250513181930-ybwen19": {
+      "endId": "20250513191300-9k87za3",
+      "focusEnd": 0,
+      "focusId": "20250513191126-hr3la8u",
+      "focusStart": 0,
+      "rootId": "20250513181930-ybwen19",
+      "scrollTop": 0,
+      "startId": "20250513191126-hr3la8u"
+    },
     "20250515095230-5yt9s93": {
       "endId": "20250515095230-v4kxgf1",
       "rootId": "20250515095230-5yt9s93",
@@ -30,9 +39,6 @@
     },
     "20250515095243-oxsg6fh": {
       "endId": "20250515095243-0rrmkjl",
-      "focusEnd": 0,
-      "focusId": "20250515095243-0rrmkjl",
-      "focusStart": 0,
       "rootId": "20250515095243-oxsg6fh",
       "scrollTop": 0,
       "startId": "20250515095243-0rrmkjl"
@@ -54,33 +60,48 @@
     },
     "20250529100820-5i2yhlh": {
       "endId": "20250609112940-xdr0jps",
+      "focusEnd": 3,
+      "focusId": "20250604112204-1ums70k",
+      "focusStart": 3,
       "rootId": "20250529100820-5i2yhlh",
-      "scrollTop": 4188,
-      "startId": "20250604101936-d169a7e"
+      "scrollTop": 13783,
+      "startId": "20250603103211-kk1t4v3"
     },
     "20250529100832-492vkea": {
-      "endId": "20250609100230-yupmyvy",
-      "focusEnd": 9,
-      "focusId": "20250609102236-oyvd4z5",
-      "focusStart": 9,
+      "endId": "20250611115750-qraxm31",
       "rootId": "20250529100832-492vkea",
-      "scrollTop": 9509,
+      "scrollTop": 11552,
       "startId": "20250529101411-jkwn1gw"
+    },
+    "20250529101706-tp8f4vu": {
+      "endId": "20250529101706-7vn7tkk",
+      "rootId": "20250529101706-tp8f4vu",
+      "scrollTop": 0,
+      "startId": "20250529101706-7vn7tkk"
     },
     "20250529160511-a8lbe7l": {
       "endId": "20250529161021-jhp0ocj",
-      "focusEnd": 13,
-      "focusId": "20250529175232-ug6s1zm",
+      "focusEnd": 10,
+      "focusId": "20250529175232-44sf2f7",
       "focusStart": 3,
       "rootId": "20250529160511-a8lbe7l",
-      "scrollTop": 0,
+      "scrollTop": 1333,
       "startId": "20250529163436-xqjd0fm"
     },
     "20250603160417-xqaeijx": {
       "endId": "20250603160525-cu0iaq0",
       "rootId": "20250603160417-xqaeijx",
-      "scrollTop": 1867,
+      "scrollTop": 2267,
       "startId": "20250603160417-yeynwma"
+    },
+    "20250604181458-19djx6q": {
+      "endId": "20250604181817-t12sjxw",
+      "focusEnd": 0,
+      "focusId": "20250604181519-6c5btt9",
+      "focusStart": 0,
+      "rootId": "20250604181458-19djx6q",
+      "scrollTop": 0,
+      "startId": "20250604181458-659cvgn"
     },
     "20250605214043-pl5sp1d": {
       "endId": "20250605214119-d39rq4y",
@@ -93,6 +114,18 @@
       "rootId": "20250609153652-8gg0pw1",
       "scrollTop": 0,
       "startId": "20250609153652-rao4bad"
+    },
+    "20250609210827-97d9s44": {
+      "endId": "20250609210827-ycpvrc1",
+      "rootId": "20250609210827-97d9s44",
+      "scrollTop": 0,
+      "startId": "20250609210827-ycpvrc1"
+    },
+    "20250610095827-ly90reo": {
+      "endId": "20250610095827-51ft1w2",
+      "rootId": "20250610095827-ly90reo",
+      "scrollTop": 0,
+      "startId": "20250610095827-51ft1w2"
     }
   },
   "local-filespaths": [
@@ -105,7 +138,7 @@
     {
       "notebookId": "20250516115812-8k8nssq",
       "openPaths": [
-        "/20250529160511-a8lbe7l.sy"
+        "/20250524153048-skokp6g.sy"
       ]
     }
   ],
@@ -168,11 +201,24 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "修改",
+      "which",
+      "find",
+      "cat",
+      "cp：",
+      "ls：",
+      "echo",
+      "mkdir",
+      "add",
+      "HAVING",
+      "groups",
+      "usermod",
+      "-aG",
+      "grep",
       "升序",
       "clear",
       "tail",
       "mv",
-      "cat",
       "ls",
       "pwd",
       "链路"
